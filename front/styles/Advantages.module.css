@@ -1,0 +1,20 @@
+.advantages {
+  padding: 3rem 2rem;
+  text-align: center;
+  background: #ffffff;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 300px));
+  gap: 1.5rem;
+  margin-top: 2rem;
+  justify-content: center;
+}
+.card {
+  padding: 1rem;
+  background: #e4e4e4;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  max-width: 250px;
+    margin: 2rem ;
+}

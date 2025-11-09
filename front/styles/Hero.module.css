@@ -1,0 +1,63 @@
+.hero {
+  padding: 4rem 2rem;
+  text-align: center;
+  background-color: #ffffff;
+}
+.inputGroup {
+  margin-top: 1rem;
+}
+.inputGroup input {
+  padding: 0.5rem;
+  width: 250px;
+  margin-right: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.inputGroup button {
+  padding: 0.5rem 1rem;
+  background-color: #f97316;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.hero {
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+  font-family: sans-serif;
+}
+
+.inputGroup input {
+  margin: 5px;
+  padding: 8px;
+  width: 150px;
+}
+
+.inputGroup button {
+  padding: 8px 16px;
+  margin-left: 5px;
+  cursor: pointer;
+}
+
+.resultBox {
+  margin-top: 20px;
+  border-top: 1px solid #ccc;
+  padding-top: 20px;
+}
+
+.category {
+  margin-bottom: 15px;
+}
+
+.categoryContent {
+  margin-left: 20px;
+}
+
+.pros li {
+  color: green;
+}
+
+.cons li {
+  color: red;
+}

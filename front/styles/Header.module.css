@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem;
+  background: #e0e0e0;
+}
+.logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.orange {
+  color: #fc7e05;
+}
+.blue {
+  color: #1e293b;
+}
+.nav a {
+  margin-left: 1.5rem;
+  font-weight: 600;
+  color: #1e293b;
+  text-decoration: none;
+}

@@ -1,0 +1,14 @@
+{
+  "Toyota": {
+    "Corolla": ["1.4 Benzyna", "1.6 Benzyna", "1.8 Hybrid"],
+    "Yaris": ["1.0 Benzyna", "1.5 Benzyna", "1.5 Hybrid"]
+  },
+  "BMW": {
+    "3 Series": ["318i", "320d", "330e"],
+    "5 Series": ["520d", "530i", "530e"]
+  },
+  "Audi": {
+    "A3": ["1.6 TDI", "2.0 TDI", "1.4 TFSI"],
+    "A4": ["2.0 TDI", "2.0 TFSI", "3.0 TDI"]
+  }
+}

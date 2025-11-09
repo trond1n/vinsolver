@@ -1,0 +1,26 @@
+.howItWorks {
+  padding: 3rem 2rem;
+  background-color: #ffffff;
+  text-align: center;
+}
+.steps {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+  flex-wrap: wrap;
+}
+.steps div {
+  max-width: 200px;
+  margin: 1rem;
+}
+.buttonWrapper {
+  margin-top: 2rem;
+}
+.buttonWrapper button {
+  padding: 0.75rem 1.5rem;
+  background-color: #f97316;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}

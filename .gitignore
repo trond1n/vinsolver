@@ -1,0 +1,44 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.idea/
+.vscode/
+
+# Dependency caches (frontend/backend)
+node_modules/
+pnpm-lock.yaml
+yarn.lock
+.pnp.*
+.npm/
+.yarn/
+
+# Build outputs
+front/.next/
+front/out/
+front/dist/
+back/target/
+
+# Logs & coverage
+*.log
+logs/
+coverage/
+.nyc_output/
+
+# Env files
+.env
+.env.*
+front/.env.local
+front/.env.*.local
+back/src/main/resources/application-local.yml
+
+# Docker artifacts
+*.pid
+*.pid.lock
+
+# Generated data
+back/data/*.mv.db
+back/data/*.lock.db
+
+
