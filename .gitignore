@@ -5,6 +5,7 @@ Thumbs.db
 # Editor folders
 .idea/
 .vscode/
+.cursor/
 
 # Dependency caches (frontend/backend)
 node_modules/
